@@ -11,3 +11,6 @@ This repository will contain our prototypes and documents used in the group proj
 |Eddie Gan|eg845@uowmail.edu.au|7626393|
 |Daniel Farynski|dpf271@uowmail.edu.au|7576559|
 
+# Project Goal
+To develop an IT software system to manage loyalty programs (e.g., frequent flyer points and 
+rewards including a wide range of ways to earn points, use points, status upgrade, etc.). 
